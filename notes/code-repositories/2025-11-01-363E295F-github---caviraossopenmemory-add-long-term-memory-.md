@@ -1,7 +1,7 @@
 ---
 title: "GitHub - CaviraOSS/OpenMemory: Add long-term memory to any AI in minutes. Self-hosted, open, and fra"
 url: https://github.com/CaviraOSS/OpenMemory
-tags: [development, ai, code, machine-learning]
+tags: [development, ai, code, machine-learning, Agent-memory]
 category: Code Repository
 date: 2025-11-01
 id: 363E295F-81F5-47E4-99ED-BB53A48732AA
@@ -16,7 +16,7 @@ OpenMemory is a self-hosted, modular **AI memory engine** designed to provide pe
 
 **Category:** `Code Repository`  
 
-**Tags:** `development` `ai` `code` `machine-learning`
+**Tags:** `development` `ai` `code` `machine-learning` `Agent-memory`
 
 **Source:** [https://github.com/CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
 
