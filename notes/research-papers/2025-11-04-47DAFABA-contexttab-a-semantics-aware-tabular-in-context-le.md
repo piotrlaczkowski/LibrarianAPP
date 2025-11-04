@@ -1,0 +1,29 @@
+---
+title: "ConTextTab: A Semantics-Aware Tabular In-Context Learner"
+url: https://arxiv.org/abs/2506.10707
+tags: [code, ai, machine-learning, academic, documentation, research, development, news]
+category: Research Paper
+date: 2025-11-04
+id: 47DAFABA-CF39-4B70-BC9E-2BE3F13552B2
+created: 2025-11-04T22:16:35Z
+modified: 2025-11-04T22:16:35Z
+---
+# ConTextTab: A Semantics-Aware Tabular In-Context Learner
+
+## Summary
+
+Tabular in-context learning (ICL) has recently achieved state-of-the-art (SOTA) performance on several tabular prediction tasks. Previously restricted to classification problems on small tables, recent advances such as TabPFN and TabICL have extended its use to larger datasets.
+
+**Category:** `Research Paper`  
+
+**Tags:** `code` `ai` `machine-learning` `academic` `documentation` `research` `development` `news`
+
+**Source:** [https://arxiv.org/abs/2506.10707](https://arxiv.org/abs/2506.10707)
+
+---
+
+## Content
+
+ConTextTab: A Semantics-Aware Tabular In-Context Learner
+
+[2506.10707] ConTextTab: A Semantics-Aware Tabular In-Context Learner In just 5 minutes help us improve arXiv: Annual Global Survey We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. > cs > arXiv:2506.10707 Help | Advanced Search All fields Journal reference ACM classification MSC classification Report number arXiv identifier arXiv author ID Help pages quick links Help Pages Computer Science > Machine Learning arXiv:2506.10707 (cs) [Submitted on 12 Jun 2025 ( v1 ), last revised 3 Nov 2025 (this version, v4)] Title: ConTextTab: A Semantics-Aware Tabular In-Context Learner Authors: Marco Spinaci , Marek Polewczyk , Maximilian Schambach , Sam Thelin View a PDF of the paper titled ConTextTab: A Semantics-Aware Tabular In-Context Learner, by Marco Spinaci and 3 other authors HTML (experimental) Abstract: Tabular in-context learning (ICL) has recently achieved state-of-the-art (SOTA) performance on several tabular prediction tasks. Previously restricted to classification problems on small tables, recent advances such as TabPFN and TabICL have extended its use to larger datasets. Although current table-native ICL architectures are architecturally efficient and well-adapted to tabular data structures, their exclusive training on synthetic data limits their ability to fully leverage the rich semantics and world knowledge contained in real-world tabular data. At the other end of the spectrum, tabular ICL models based on pretrained large language models such as TabuLa-8B integrate deep semantic understanding and world knowledge but are only able to make use of a small amount of context due to inherent architectural limitations. With the aim to combine the best of both these worlds, we introduce ConTextTab, integrating semantic understanding and alignment into a table-native ICL framework. By employing specialized embeddings for different data modalities and by training on large-scale real-world tabular data, our model is competitive with SOTA across a broad set of benchmarks while setting a new standard on the semantically rich CARTE benchmark. Code and model checkpoints are available at: this https URL . Accepted as spotlight at NeurIPS 2025 Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI) arXiv:2506.10707 [cs.LG] arXiv:2506.10707v4 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2506.10707 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Marco Spinaci [ view email ] [v1] Thu, 12 Jun 2025 13:57:29 UTC (320 KB) Tue, 8 Jul 2025 19:44:57 UTC (384 KB) Tue, 19 Aug 2025 14:21:49 UTC (596 KB) Mon, 3 Nov 2025 11:32:32 UTC (622 KB) Full-text links: Access Paper: View a PDF of the paper titled ConTextTab: A Semantics-Aware Tabular In-Context Learner, by Marco Spinaci and 3 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.LG | 2025-06 Change to browse by: References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation BibTeX formatted citation Data provided by: Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) Links to Code Toggle Papers with Code ( What is Papers with Code? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) IArxiv recommender toggle IArxiv Recommender ( What is IArxiv? ) Institution About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? ) Privacy Policy Web Accessibility Assistance arXiv Operational Status
