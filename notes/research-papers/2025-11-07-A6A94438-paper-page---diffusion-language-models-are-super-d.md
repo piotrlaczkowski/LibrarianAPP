@@ -1,16 +1,28 @@
 ---
 title: Paper page - Diffusion Language Models are Super Data Learners
 url: https://share.google/SeyUOe56RLRGSyavB
-tags: [AI/ML]
+tags: [AI/ML, diffusion]
 category: Research Paper
 date: 2025-11-07
 id: A6A94438-203D-4304-90DC-F21F0C6922E7
 created: 2025-11-07T18:54:04Z
-modified: 2025-11-07T18:54:04Z
+modified: 2025-11-07T19:13:00Z
 ---
 # Paper page - Diffusion Language Models are Super Data Learners
 
 ## Summary
+
+Diffusion Language Models are Super Data Learners
+
+**Category:** `Research Paper`  
+
+**Tags:** `AI/ML` `diffusion`
+
+**Source:** [https://share.google/SeyUOe56RLRGSyavB](https://share.google/SeyUOe56RLRGSyavB)
+
+---
+
+## Content
 
 Diffusion Language Models are Super Data Learners
 
@@ -762,5 +774,3 @@ cross-entropy does not imply degraded downstream performance in this regime.</p>
 	</body>
 
 </html>
-
-
