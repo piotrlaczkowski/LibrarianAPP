@@ -1,7 +1,7 @@
 ---
 title: "GitHub - microsoft/agent-lightning: The absolute trainer to light up AI agents."
 url: https://github.com/microsoft/agent-lightning?utm_source=aiengineering.beehiiv.com&utm_medium=referral&utm_campaign=train-ai-agents-with-rl-agent-lightning-from-microsoft
-tags: [ai, documentation, tutorial, academic, machine-learning, research, code]
+tags: [ai, documentation, tutorial, academic, machine-learning, development, research, code, xxx]
 category: Code Repository
 date: 2025-11-07
 id: 9584A77F-6275-4DAC-A73C-577EE3F4369B
@@ -16,7 +16,7 @@ The absolute trainer to light up AI agents.
 
 **Category:** `Code Repository`  
 
-**Tags:** `ai` `documentation` `tutorial` `academic` `machine-learning` `research` `code`
+**Tags:** `ai` `documentation` `tutorial` `academic` `machine-learning` `development` `research` `code` `xxx`
 
 **Source:** [https://github.com/microsoft/agent-lightning?utm_source=aiengineering.beehiiv.com&utm_medium=referral&utm_campaign=train-ai-agents-with-rl-agent-lightning-from-microsoft](https://github.com/microsoft/agent-lightning?utm_source=aiengineering.beehiiv.com&utm_medium=referral&utm_campaign=train-ai-agents-with-rl-agent-lightning-from-microsoft)
 
