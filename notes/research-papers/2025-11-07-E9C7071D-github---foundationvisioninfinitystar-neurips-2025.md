@@ -1,7 +1,7 @@
 ---
 title: "GitHub - FoundationVision/InfinityStar: [NeurIPS 2025 Oral]Infinity⭐️: Uniﬁed Spacetime AutoRegressiv"
 url: https://github.com/FoundationVision/InfinityStar
-tags: []
+tags: [ImageGen, Autoregressive, AI]
 category: Research Paper
 date: 2025-11-07
 id: E9C7071D-1847-4314-A0CF-8D49E22323BB
@@ -15,6 +15,8 @@ modified: 2025-11-07T21:10:42Z
 nfinity⭐️: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation - open source !
 
 **Category:** `Research Paper`  
+
+**Tags:** `ImageGen` `Autoregressive` `AI`
 
 **Source:** [https://github.com/FoundationVision/InfinityStar](https://github.com/FoundationVision/InfinityStar)
 
