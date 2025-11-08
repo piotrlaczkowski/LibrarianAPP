@@ -1,0 +1,29 @@
+---
+title: "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity"
+url: https://arxiv.org/abs/2510.01171
+tags: [AI/ML, framework]
+category: Research Paper
+date: 2025-11-08
+id: 8204A8D7-FE1D-4B28-B9B3-1379B4924068
+created: 2025-11-08T20:07:51Z
+modified: 2025-11-08T20:07:51Z
+---
+# Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity
+
+## Summary
+
+Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity. Unlocking LLM diversity and creativity just by changing prompt and asking for several output and probabilities - increases creativity of LLMs
+
+**Category:** `Research Paper`  
+
+**Tags:** `AI/ML` `framework`
+
+**Source:** [https://arxiv.org/abs/2510.01171](https://arxiv.org/abs/2510.01171)
+
+---
+
+## Content
+
+Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity
+
+[2510.01171] Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. > cs > arXiv:2510.01171 Help | Advanced Search All fields Journal reference ACM classification MSC classification Report number arXiv identifier arXiv author ID Help pages quick links Help Pages Computer Science > Computation and Language arXiv:2510.01171 (cs) [Submitted on 1 Oct 2025 ( v1 ), last revised 10 Oct 2025 (this version, v3)] Title: Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity Authors: Jiayi Zhang , Simon Yu , Derek Chong , Anthony Sicilia , Michael R. Tomz , Christopher D. Manning , Weiyan Shi View a PDF of the paper titled Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity, by Jiayi Zhang and 6 other authors HTML (experimental) Abstract: Post-training alignment often reduces LLM diversity, leading to a phenomenon known as mode collapse. Unlike prior work that attributes this effect to algorithmic limitations, we identify a fundamental, pervasive data-level driver: typicality bias in preference data, whereby annotators systematically favor familiar text as a result of well-established findings in cognitive psychology. We formalize this bias theoretically, verify it on preference datasets empirically, and show that it plays a central role in mode collapse. Motivated by this analysis, we introduce Verbalized Sampling, a simple, training-free prompting strategy to circumvent mode collapse. VS prompts the model to verbalize a probability distribution over a set of responses (e.g., &#34;Generate 5 jokes about coffee and their corresponding probabilities&#34;). Comprehensive experiments show that VS significantly improves performance across creative writing (poems, stories, jokes), dialogue simulation, open-ended QA, and synthetic data generation, without sacrificing factual accuracy and safety. For instance, in creative writing, VS increases diversity by 1.6-2.1x over direct prompting. We further observe an emergent trend that more capable models benefit more from VS. In sum, our work provides a new data-centric perspective on mode collapse and a practical inference-time remedy that helps unlock pre-trained generative diversity. 82 pages, 28 figures, 32 tables. Code is available at this https URL Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI) arXiv:2510.01171 [cs.CL] arXiv:2510.01171v3 [cs.CL] for this version) https://doi.org/10.48550/arXiv.2510.01171 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Jiayi Zhang [ view email ] [v1] Wed, 1 Oct 2025 17:55:37 UTC (7,784 KB) Mon, 6 Oct 2025 16:29:44 UTC (28,095 KB) Fri, 10 Oct 2025 17:38:52 UTC (9,987 KB) Full-text links: Access Paper: View a PDF of the paper titled Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity, by Jiayi Zhang and 6 other authors View PDF HTML (experimental) TeX Source view license Current browse context: cs.CL | 2025-10 Change to browse by: References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation BibTeX formatted citation Data provided by: Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) Links to Code Toggle Papers with Code ( What is Papers with Code? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Institution About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? ) Privacy Policy Web Accessibility Assistance arXiv Operational Status Get status notifications via
