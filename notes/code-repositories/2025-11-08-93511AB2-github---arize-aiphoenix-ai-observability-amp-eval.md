@@ -1,7 +1,7 @@
 ---
 title: "GitHub - Arize-ai/phoenix: AI Observability &amp; Evaluation"
 url: https://github.com/Arize-ai/phoenix
-tags: [GenAI]
+tags: [GenAI, Observability]
 category: Code Repository
 date: 2025-11-08
 id: 93511AB2-F65C-4F5A-A689-55C501B43520
@@ -16,7 +16,7 @@ GenAI Observability & Evaluation platform open source
 
 **Category:** `Code Repository`  
 
-**Tags:** `GenAI`
+**Tags:** `GenAI` `Observability`
 
 **Source:** [https://github.com/Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 
