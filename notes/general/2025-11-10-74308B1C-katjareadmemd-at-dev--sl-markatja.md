@@ -1,7 +1,7 @@
 ---
 title: Katja/README.md at dev · SL-Mar/Katja
 url: https://github.com/SL-Mar/Katja/blob/dev/README.md
-tags: []
+tags: [Chat, Platform, SLMs, Legal]
 category: 
 date: 2025-11-10
 id: 74308B1C-E95E-4FC5-8953-AFB446765B5B
@@ -13,6 +13,8 @@ modified: 2025-11-10T13:16:36Z
 ## Summary
 
 Multi-Mode AI Chat Platform with Specialized LLMs. Contribute to SL-Mar/Katja development by creating an account on GitHub.
+
+**Tags:** `Chat` `Platform` `SLMs` `Legal`
 
 **Source:** [https://github.com/SL-Mar/Katja/blob/dev/README.md](https://github.com/SL-Mar/Katja/blob/dev/README.md)
 
