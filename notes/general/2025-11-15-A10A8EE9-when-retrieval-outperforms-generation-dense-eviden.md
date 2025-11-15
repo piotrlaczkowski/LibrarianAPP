@@ -1,7 +1,7 @@
 ---
 title: "When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection"
 url: https://arxiv.org/abs/2511.04643
-tags: []
+tags: [RAG, Retrieval]
 category: 
 date: 2025-11-15
 id: A10A8EE9-9C6A-47A9-A713-C39B6DBE53EC
@@ -13,6 +13,8 @@ modified: 2025-11-15T08:15:49Z
 ## Summary
 
 The proliferation of misinformation necessitates robust yet computationally efficient fact verification systems. While current state-of-the-art approaches leverage Large Language Models (LLMs) for generating explanatory rationales, these methods face significant computational bar
+
+**Tags:** `RAG` `Retrieval`
 
 **Source:** [https://arxiv.org/abs/2511.04643](https://arxiv.org/abs/2511.04643)
 
