@@ -1,0 +1,29 @@
+---
+title: "LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents"
+url: https://arxiv.org/abs/2509.02241
+tags: [AI/ML, research, framework]
+category: Research Paper
+date: 2026-06-03
+id: 49122A2F-29B7-4129-BA88-82B13E551C90
+created: 2026-06-03T20:49:34Z
+modified: 2026-06-03T20:49:34Z
+---
+# LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents
+
+## Summary
+
+of the Distribution-based Localisation and Inverse Cardinality Weighting heuristics. This approach leverages a general purpose model to promote long term scalability, prompt engineering to increase reliability and the two heuristic strategies to reduce the impact of the black...
+
+**Category:** `Research Paper`  
+
+**Tags:** `AI/ML` `research` `framework`
+
+**Source:** [https://arxiv.org/abs/2509.02241](https://arxiv.org/abs/2509.02241)
+
+---
+
+## Content
+
+LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents
+
+[2509.02241] LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents Learn about arXiv becoming an independent nonprofit. We gratefully acknowledge support from the Simons Foundation, member institutions , and all contributors. > cs > arXiv:2509.02241 Help | Advanced Search All fields Journal reference ACM classification MSC classification Report number arXiv identifier arXiv author ID Help pages quick links Help Pages Computer Science > Artificial Intelligence arXiv:2509.02241 (cs) [Submitted on 2 Sep 2025] Title: LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents Authors: Strahinja Klem , Noura Al Moubayed View a PDF of the paper titled LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents, by Strahinja Klem and 1 other authors HTML (experimental) Abstract: The rise of Large Language Models (LLMs) has had a profoundly transformative effect on a number of fields and domains. However, their uptake in Law has proven more challenging due to the important issues of reliability and transparency. In this study, we present a structured prompting methodology as a viable alternative to the often expensive fine-tuning, with the capability of tacking long legal documents from the CUAD dataset on the task of information retrieval. Each document is first split into chunks via a system of chunking and augmentation, addressing the long document problem. Then, alongside an engineered prompt, the input is fed into QWEN-2 to produce a set of answers for each question. Finally, we tackle the resulting candidate selection problem with the introduction of the Distribution-based Localisation and Inverse Cardinality Weighting heuristics. This approach leverages a general purpose model to promote long term scalability, prompt engineering to increase reliability and the two heuristic strategies to reduce the impact of the black box effect. Whilst our model performs up to 9\% better than the previously presented method, reaching state-of-the-art performance, it also highlights the limiting factor of current automatic evaluation metrics for question answering, serving as a call to action for future research. However, the chief aim of this work is to underscore the potential of structured prompt engineering as a useful, yet under-explored, tool in ensuring accountability and responsibility of AI in the legal domain, and beyond. 20 pages, 6 figures, 4 tables, Artificial Intelligence (cs.AI) arXiv:2509.02241 [cs.AI] arXiv:2509.02241v1 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2509.02241 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Strahinja Klem [ view email ] [v1] Tue, 2 Sep 2025 12:09:49 UTC (482 KB) Full-text links: Access Paper: View a PDF of the paper titled LLMs for LLMs: A Structured Prompting Methodology for Long Legal Documents, by Strahinja Klem and 1 other authors View PDF HTML (experimental) TeX Source view license Current browse context: | 2025-09 Change to browse by: References & Citations NASA ADS Google Scholar Semantic Scholar export BibTeX citation BibTeX formatted citation Data provided by: Bibliographic Tools Bibliographic and Citation Tools Bibliographic Explorer Toggle Bibliographic Explorer ( What is the Explorer? ) Connected Papers Toggle Connected Papers ( What is Connected Papers? ) Litmaps Toggle Litmaps ( What is Litmaps? ) scite.ai Toggle scite Smart Citations ( What are Smart Citations? ) Code, Data, Media Code, Data and Media Associated with this Article alphaXiv Toggle alphaXiv ( What is alphaXiv? ) Links to Code Toggle CatalyzeX Code Finder for Papers ( What is CatalyzeX? ) DagsHub Toggle DagsHub ( What is DagsHub? ) GotitPub Toggle Gotit.pub ( What is GotitPub? ) Huggingface Toggle Hugging Face ( What is Huggingface? ) ScienceCast Toggle ScienceCast ( What is ScienceCast? ) Replicate Toggle Replicate ( What is Replicate? ) Spaces Toggle Hugging Face Spaces ( What is Spaces? ) Spaces Toggle TXYZ.AI ( What is TXYZ.AI? ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Core recommender toggle CORE Recommender ( What is CORE? ) Institution About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs . Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? ) Privacy Policy Web Accessibility Assistance arXiv Operational Status
